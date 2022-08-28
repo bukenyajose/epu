@@ -1,7 +1,7 @@
 import os
 from .base import *
 
-DEBUG = True
+DEBUG = False
 
 ALLOWED_HOSTS = ['ecologicalpartyofuganda.com', 'www.ecologicalpartyofuganda.com', 'localhost', '127.0.0.1']
 
